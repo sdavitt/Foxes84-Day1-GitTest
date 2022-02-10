@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+h1 {
+    color: darkgray;
+}
+=======
 .container {  display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: 0.4fr 0.1fr 2.5fr;
@@ -35,3 +40,4 @@
 .c7 { grid-area: c7; }
 .c8 { grid-area: c8; }
 .c9 { grid-area: c9; }
+>>>>>>> 5c162542bb0c935a17c400dfb9a3624866b8b204
